@@ -1,4 +1,11 @@
-# IDMX 11ty Sass Starter
+# IDMX 11ty Sass Starter.. AKA Poem Site
+
+# Poem page made by 11ty and SAS!
+
+### The poem I chose Is called Love is like a delicate flower, and it is by Ben Littlechild. It is a simple yet beautiful poem that I enjoy. My favorite types of poems is when they Incorporate nature, so this was the perfect poem for me to choose! 
+
+### The butterfly is a photo I took! :)
+
 
 The set of development scripts in this starter is configured to watch and compile a simple Sass structure using 11ty.
 
@@ -29,3 +36,4 @@ Use this as the "Publish command" if needed by hosting services such as Netlify.
 ## Resources
 
 <small>The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.com/5t3ph)</small>
+
